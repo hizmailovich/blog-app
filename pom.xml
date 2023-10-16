@@ -17,7 +17,7 @@
     <maven-checkstyle-plugin.version>3.3.0</maven-checkstyle-plugin.version>
     <jakarta-persistence.version>3.1.0</jakarta-persistence.version>
     <com.jcabi.version>0.27.2</com.jcabi.version>
-    <org.jacoco.version>0.8.10</org.jacoco.version>
+    <org.jacoco.version>0.8.11</org.jacoco.version>
     <failsafe.version>3.1.2</failsafe.version>
     <jtcop.version>0.1.16</jtcop.version>
     <testcontainers.version>1.18.3</testcontainers.version>
